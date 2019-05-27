@@ -6,3 +6,4 @@ def main():
 	print(1+2)
 
 name = 10
+wou = 20
