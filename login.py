@@ -4,3 +4,5 @@ name ='wangyuhao'
 def main():
 	"""入口函数"""
 	print(1+2)
+
+name = 10
